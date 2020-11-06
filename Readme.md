@@ -14,9 +14,9 @@ To run OCR.py script you need to configure your environment properly.
 These packages, with commands to install them, are: \
       -numpy: conda install -c conda-forge numpy, \
       -opencv: conda install -c conda-forge opencv, \
-      -pytesseract: conda install -c conda-forge pytesseract.\
-3. After you successfully installed these packages download script and prepare images you want to pass to script.\
-4. Navigate to folder where OCR.py and images are stored. You can do it using command: cd.\
-5. To execute the script write in command prompt line similar to: python OCR.py train_1.eps train_2.eps train_3.eps etc.\
-   You can use as many eps files as you like with different names.\
-6. In command prompt you should get results of running this script.\
+      -pytesseract: conda install -c conda-forge pytesseract.
+3. After you successfully installed these packages download script and prepare images you want to pass to script.
+4. Navigate to folder where OCR.py and images are stored. You can do it using command: cd.
+5. To execute the script write in command prompt line similar to: python OCR.py train_1.eps train_2.eps train_3.eps etc.
+   You can use as many eps files as you like with different names.
+6. In command prompt you should get results of running this script.
