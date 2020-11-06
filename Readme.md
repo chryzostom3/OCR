@@ -7,10 +7,10 @@ Folder "training files" contains eps files on which OCR.py script was tested.
 To run OCR.py script you need to configure your environment properly.
 1. Running python script requires python interpreter. Writing this script I used Anaconda which provides interpreter and allows to easily download additional libraries. It can be found on this site: https://www.anaconda.com/products/individual.
 2. If you downloaded and installed Anaconda package here are the next steps.
-2.1 Run Anaconda Prompt (Anaconda3).
-2.2 Create new environment using command: conda create -n name (name is name of your environment).
-2.3 You can now enter your environment using command: conda activate name. When you activate environmet the line
-2.4 Now that you've entered your created environment you can install packages needed to run script. 
+2.1. Run Anaconda Prompt (Anaconda3).
+2.2. Create new environment using command: conda create -n name (name is name of your environment).
+2.3. You can now enter your environment using command: conda activate name. When you activate environmet the line
+2.4. Now that you've entered your created environment you can install packages needed to run script. 
 These packages are: 
   -numpy: command: conda install -c conda-forge numpy, 
   -opencv: command: conda install -c conda-forge opencv, 
